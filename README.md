@@ -3,11 +3,15 @@ fun ascii phrases from http://www.asciiartfarts.com for your ssh
 
 
 #howto
+
 download make-me-ascii.sh 
+
 then chmod it with chmod +x make-me-ascii.sh
+
 and run as root ./make-me-ascii.sh
 
 What happend?
+
 0.Will create folder /scripts
 
 1.Create exec file with wget
