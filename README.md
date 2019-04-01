@@ -14,28 +14,3 @@ What happend?
 3.Add greeting banner file to /etc/ssh/sshd_config
 4.Add to /etc/crontab autorun update ascii script with 2 min delay
 5.Show result))))
-         _.--._                                  
-      ,'        `.                               
-     /   __) __`  \        YOUR MAMA'S SO FAT    
-    (   (`-`(-')   )                             
-    /)  \   _  /  (          SHE ATE ME BEFORE   
-   /'    )-._.' .  \ ___      I COULD FINISH     
-  (  ,--.,    `.)___(___)      TYPING THIS SENTEN
-   )(   /-.,--'\   _ \X/`                        
-  '/ .'/        \ (  Uu")\                       
-    / /          \ `/,-'  )                      
-   ( ^      ,    ,^ )`._.'                       
-    ( `.   Y   .'  )                             
-     \  `. )\.'   / )                            
-     )`._.'=='._.' (                             
-    /               )                            
-   (                ."-.                         
-  /(`    -)        /    \                        
- (  \`-.__    -'_."      `                       
- |  \`-.__.--"v"          |                      
- `.'      \   |,          ,                      
-  /        `._/           :                      
- /           |           '                       
-/           /|          /                        
-           / |         / 
-
